@@ -27,8 +27,8 @@ public class CityList {
      *      This is a candidate city to add
      */
     public void add2cities(City city, City city2) {
-        //cities.add(city);
-        //cities.add(city2);
+        cities.add(city);
+        cities.add(city2);
         //
     }
 
