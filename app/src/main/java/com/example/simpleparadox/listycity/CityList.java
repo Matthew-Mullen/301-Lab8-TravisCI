@@ -21,6 +21,14 @@ public class CityList {
         }
         cities.add(city);
     }
+    /**
+     * This adds 2 city to the list if the city does not exist
+     * @param city
+     *      This is a candidate city to add
+     */
+    public void add2cities(City city, City city2) {
+
+    }
 
     /**
      * This returns a sorted list of cities
