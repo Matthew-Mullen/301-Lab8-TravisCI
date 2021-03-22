@@ -26,7 +26,7 @@ public class CityList {
      * @param city
      *      This is a candidate city to add
      */
-    public void add(City city, City city2) {
+    public void add2cities(City city, City city2) {
        
     }
 
