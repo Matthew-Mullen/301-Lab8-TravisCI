@@ -3,7 +3,9 @@ jdk: oraclejdk8
 dist: trusty
 
 env:
-  global:
+  global: 
+  - ANDROID_API=29
+  - ANDROID_BUILD_TOOLS=29.0.2
 
 android:
   components:
